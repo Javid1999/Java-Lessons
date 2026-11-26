@@ -1,0 +1,5 @@
+Hello Java!
+This is a small file.
+We can read the entire file into memory.
+Hello Java!
+This is my file

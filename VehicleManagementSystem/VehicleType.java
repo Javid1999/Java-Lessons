@@ -1,5 +1,0 @@
-package VehicleManagementSystem;
-
-public enum VehicleType {
-    CAR,MOTORCYCLE,TRUCK
-}
